@@ -3,10 +3,7 @@
 - 🏴‍☠️⚓🛟🪟
 - A workflow centric windows tiling manager for Windows
 
-
-![logo](./assets/logo.jpg)
-
-
+<img src="./assets/logo.jpg" alt="drawing" width="300"/>
 
 ## Image generation
 
