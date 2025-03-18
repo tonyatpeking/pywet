@@ -1,6 +1,6 @@
 [project]
 name = "pywet"
-version = "0.1.2"
+version = "0.1.4"
 description = "Python Windows Emergency Tiler - a workflow centric windows tiling manager for Windows"
 readme = "README.md"
 authors = [
