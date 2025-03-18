@@ -1,3 +1,9 @@
+
+import sys
+
+if sys.platform != "win32":
+    raise ImportError("pywet is *currently* only supported on Windows")
+
 import win32api
 import win32con
 import win32clipboard
