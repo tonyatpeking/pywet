@@ -7,7 +7,9 @@ authors = [
     { name = "tonyatpeking", email = "tonyatpeking@gmail.com" },
 ]
 requires-python = ">=3.12"
-dependencies = ["pywin32"]
+dependencies = [
+    "pywin32",
+]
 
 [project.scripts]
 pywet = "pywet:main"
@@ -20,3 +22,6 @@ build-backend = "hatchling.build"
 dev = [
     "pytest",
 ]
+
+[project.license]
+file = "LICENSE"
